@@ -1,4 +1,9 @@
-## Hi there 👋
+# Halo semua!
+
+Perkenalkan nama saya **Muhammad Muthi' Nuritzan**.<br>
+Saya merupakan mahasiswa S1 program studi Matematika di Universitas Brawijaya, Malang. Saat ini saya sedang mengikuti program Bangkit Academy 2024 Machine Learning Learning Path.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mmuthinuritzan/) ku ya.
 
 <!--
 **nuritzan/nuritzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
